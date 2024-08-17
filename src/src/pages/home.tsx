@@ -1,10 +1,11 @@
 import Hr from "../components/hr"
+import Layout from "../components/layout"
 
 const HomePage = () => (
-    <main>
+    <Layout>
         <h1>Hello, World!</h1>
         <Hr />
-    </main>
+    </Layout>
 )
 
 export default HomePage

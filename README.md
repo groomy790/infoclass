@@ -28,6 +28,7 @@ Description of what you make
 >
 > ---
 >
+> - Define your layout of pages at "src/components/layout.tsx"
 > - Define your Entity of your app under "src/model"
 > - Define your Service layer of your app under "src/service"
 >
