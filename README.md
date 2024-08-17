@@ -25,3 +25,9 @@ Description of what you make
 > - Change "thumbnail.jpg" file under "public" to your thumbnail (if you change filename you shoud change it in index.html)
 >
 > In here, 'filename' includes extension of a file
+>
+> ---
+>
+> - Define your Entity of your app under "src/model"
+> - Define your Service layer of your app under "src/service"
+>
