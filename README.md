@@ -14,6 +14,7 @@ Description of what you make
 > Todo
 >
 > - Change "https://www.example.com" to your site link in index.html
+> - Change "sitetitle" to your site name in index.html
 > - Change "sitename" to your real site name in index.html
 > - Change "sitedescription" to your real site description in index.html
 > - Change "langcode" to your target languagae code (EX: en, ko)
